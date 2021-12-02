@@ -7,7 +7,7 @@
   ],
   "author": "huiergo <1063229610@qq.com>",
   "homepage": "https://github.com/huiergo/ding-lerna#readme",
-  "license": "ISC",
+  "license": "MIT",
   "main": "lib/house.js",
   "directories": {
     "lib": "lib",
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/huiergo/ding-lerna.git"
+    "url": "https://github.com/huiergo/ding-lerna.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
