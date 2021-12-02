@@ -1,11 +1,11 @@
 {
-  "name": "ding-house",
+  "name": "ding_xx_dn_house",
   "version": "0.2.1",
   "description": "house",
   "keywords": [
     "house"
   ],
-  "author": "huiergo <928187057@qq.com>",
+  "author": "huiergo <1063229610@qq.com>",
   "homepage": "https://github.com/huiergo/ding-lerna#readme",
   "license": "ISC",
   "main": "lib/house.js",
