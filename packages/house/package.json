@@ -26,8 +26,5 @@
   "bugs": {
     "url": "https://github.com/huiergo/ding-lerna/issues"
   },
-  "dependencies": {
-    "lodash": "^4.17.21"
-  },
   "gitHead": "386d0266b2f56d3fbcfbad27ab4a9e5f997b4abf"
 }
