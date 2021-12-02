@@ -1,0 +1,32 @@
+{
+  "name": "ding-house",
+  "version": "0.0.1",
+  "description": "house",
+  "keywords": [
+    "house"
+  ],
+  "author": "huiergo <928187057@qq.com>",
+  "homepage": "https://github.com/huiergo/ding-lerna#readme",
+  "license": "ISC",
+  "main": "lib/house.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huiergo/ding-lerna.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/huiergo/ding-lerna/issues"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
