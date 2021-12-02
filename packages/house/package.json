@@ -1,6 +1,6 @@
 {
   "name": "house",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "house ui component",
   "keywords": [
     "house"
@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "lodash": "^4.17.21",
-    "window": "^0.0.3"
+    "window": "^0.0.4"
   },
   "gitHead": "5060c6a38ec989ad7a90cbb6385f635046764654"
 }
